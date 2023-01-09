@@ -1,0 +1,7 @@
+.bloc {
+  display: grid;
+  grid-template-columns: 100px 50px;
+  grid-template-rows: 420px;
+  align-items: space-between;
+  justify-content: space-between;
+}
